@@ -34,3 +34,8 @@ const timeout = (durationMillis, action) => {
 // state changed: Object { count: 2 }
 // state changed: Object { count: 3 }
 ```
+
+References:
+
+- using the effect hook: https://reactjs.org/docs/hooks-effect.html
+- redux store subscribe: https://redux.js.org/api/store#subscribe
